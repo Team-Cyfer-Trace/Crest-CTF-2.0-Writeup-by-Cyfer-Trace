@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+extras/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jekyll / site output (if a site is added later)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp

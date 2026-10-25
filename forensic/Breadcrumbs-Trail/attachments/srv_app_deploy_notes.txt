@@ -1,0 +1,45 @@
+[00] deploy handoff: routine item 1; owner=appops; state=closed
+[01] deploy handoff: routine item 2; owner=appops; state=closed
+[02] deploy handoff: routine item 3; owner=appops; state=closed
+[03] deploy handoff: routine item 4; owner=appops; state=closed
+[04] deploy handoff: routine item 5; owner=appops; state=closed
+[05] deploy handoff: routine item 6; owner=appops; state=closed
+[06] deploy handoff: routine item 7; owner=appops; state=closed
+[07] deploy handoff: routine item 8; owner=appops; state=closed
+[08] deploy handoff: routine item 9; owner=appops; state=closed
+[09] cache warmup note CREST{TokenRefreshed47A}
+[09] deploy handoff: routine item 10; owner=appops; state=closed
+[10] deploy handoff: routine item 11; owner=appops; state=closed
+[11] deploy handoff: routine item 12; owner=appops; state=closed
+[12] deploy handoff: routine item 13; owner=appops; state=closed
+[13] deploy handoff: routine item 14; owner=appops; state=closed
+[14] deploy handoff: routine item 15; owner=appops; state=closed
+[15] deploy handoff: routine item 16; owner=appops; state=closed
+[16] deploy handoff: routine item 17; owner=appops; state=closed
+[17] deploy handoff: routine item 18; owner=appops; state=closed
+[18] Change window opened 2026-09-18 01:45 UTC.
+[19] deploy requested rotate-worker recovery after worker configuration drift.
+[20] Runbook entry: compatibility runner inherits rotate-worker execution context.
+[21] Worker session appeared from loopback shortly after recovery command.
+[22] Recovery archive 9c7d4e21 reported checkpoint 7f31c2a9.
+[23] Preserve transient stage state until incident review completes.
+[24] deploy handoff: routine item 19; owner=appops; state=closed
+[25] deploy handoff: routine item 20; owner=appops; state=closed
+[26] deploy handoff: routine item 21; owner=appops; state=closed
+[27] deploy handoff: routine item 22; owner=appops; state=closed
+[28] deploy handoff: routine item 23; owner=appops; state=closed
+[29] deploy handoff: routine item 24; owner=appops; state=closed
+[31] release note CREST{WorkerResumed60B}
+[30] deploy handoff: routine item 25; owner=appops; state=closed
+[31] deploy handoff: routine item 26; owner=appops; state=closed
+[32] deploy handoff: routine item 27; owner=appops; state=closed
+[33] deploy handoff: routine item 28; owner=appops; state=closed
+[34] deploy handoff: routine item 29; owner=appops; state=closed
+[35] deploy handoff: routine item 30; owner=appops; state=closed
+[36] deploy handoff: routine item 31; owner=appops; state=closed
+[37] deploy handoff: routine item 32; owner=appops; state=closed
+[38] deploy handoff: routine item 33; owner=appops; state=closed
+[39] deploy handoff: routine item 34; owner=appops; state=closed
+[42] maintenance annotation CREST{LogRotationOK73C}
+[40] deploy handoff: routine item 35; owner=appops; state=closed
+[41] deploy handoff: routine item 36; owner=appops; state=closed

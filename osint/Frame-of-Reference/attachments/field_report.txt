@@ -1,0 +1,8 @@
+INCIDENT REPORT — Meridian Labs Facility, 2024-03-14
+-----------------------------------------------------
+A badge-less entry was logged at the north loading dock between
+14:02 and 14:10 local time. Facilities has pulled three camera
+stills from around that period for review. Cross-reference each
+image's embedded metadata against the incident window AND the
+loading dock's known coordinates (approx. 41.8901 N, -87.6234 W)
+to identify which still actually corresponds to the incident.

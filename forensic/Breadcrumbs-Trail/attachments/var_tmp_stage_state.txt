@@ -1,0 +1,45 @@
+format=worker-stage-state-v3
+probe_00=ok:003
+probe_01=ok:020
+probe_02=ok:037
+probe_03=ok:054
+probe_04=ok:071
+probe_05=ok:088
+probe_06=ok:004
+probe_07=ok:021
+probe_08=ok:038 note=CREST{DeployRollback85O}
+probe_09=ok:055
+probe_10=ok:072
+probe_11=ok:089
+probe_12=ok:005
+probe_13=ok:022
+probe_14=ok:039
+probe_15=ok:056
+probe_16=ok:073
+probe_17=ok:090
+created=2026-09-18T01:51:04Z
+owner=deploy
+stage_path=/var/tmp/.stage/.state
+checkpoint=7f31c2a9
+last_transition=worker-context
+archive_id=9c7d4e21
+status=handoff-pending
+checksum_hint=sha256:3c8b7d1e
+cache_slot_00=warm:11
+cache_slot_01=warm:34
+cache_slot_02=warm:57
+cache_slot_03=warm:80
+cache_slot_08=warm:23 note=CREST{JournalReplay01P}
+cache_slot_05=warm:29
+cache_slot_06=warm:52
+cache_slot_07=warm:75
+cache_slot_08=warm:01
+cache_slot_09=warm:24
+cache_slot_10=warm:47
+cache_slot_11=warm:70
+cache_slot_12=warm:93
+cache_slot_17=warm:16 note=CREST{TokenRefreshed14Q}
+cache_slot_14=warm:42
+cache_slot_15=warm:65
+cache_slot_16=warm:88
+cache_slot_17=warm:14

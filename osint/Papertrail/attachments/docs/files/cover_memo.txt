@@ -1,0 +1,6 @@
+SECURITY ADVISORY — internal distribution
+-------------------------------------------
+We believe R. Chen's workstation was compromised sometime this
+month. IT recovered 9 documents from the affected backup share,
+but only documents actually AUTHORED by the compromised account
+are relevant -- the rest are unrelated noise from the same backup job.

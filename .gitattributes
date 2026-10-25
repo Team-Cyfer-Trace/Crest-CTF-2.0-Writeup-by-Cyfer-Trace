@@ -1,0 +1,22 @@
+* text=auto
+
+# Challenge attachments are binary and must not be line-ending converted.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.zip binary
+*.docx binary
+*.doc binary
+*.pdf binary
+ghostvm binary
+*.wav binary
+# Keep challenge evidence byte-for-byte; do not apply text/EOL conversion.
+**/attachments/** -text
+**/attachments/README.md text
+latchkey binary
+origami binary
+recursion_ward binary
+mirror binary
+shift_console binary
+gw-client binary
+noted binary
