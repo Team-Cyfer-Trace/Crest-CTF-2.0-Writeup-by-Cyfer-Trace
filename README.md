@@ -139,4 +139,4 @@ See [`CONTRIBUTORS.md`](CONTRIBUTORS.md), [`CONTRIBUTING.md`](CONTRIBUTING.md), 
 
 ---
 
-Repository owner: [Ishant Choudhary (@griffin-dox)](https://github.com/griffin-dox) · Event: [CTF7](https://ctf7.com).
+Repository owner: [Ishant Choudhary (@griffin-dox)](https://github.com/griffin-dox) · Event: [Crest CTF 2.0 on CTF7](https://ctf7.com/console/event/crest-ctf-20/home/).
